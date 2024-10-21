@@ -1,4 +1,4 @@
-echo "# Fruit Classification using XceptionV3
+# Fruit Classification using XceptionV3
 
 This project uses the **XceptionV3** model to classify images of five different types of fruits: **Apples, Bananas, Grapes, Mangoes, and Strawberries**. The model is trained using transfer learning and fine-tuned for improved accuracy.
 
