@@ -61,7 +61,7 @@ cd fruit-classification-xception
 
 
 ### 2. Install required dependencies:
-\`\`\`bash
+\`\`\`
 pip install -r requirements.txt
 \`\`\`
 
