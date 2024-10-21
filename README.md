@@ -57,7 +57,7 @@ The XceptionV3 model is used as the base model, pre-trained on the ImageNet data
 ## Installation
 ### 1. Clone the repository:
 \`\`\`bash
-git clone [https://github.com/yourusername/fruit-classification-xception.git](https://github.com/Nishanth619/Fruit-Classification-using-XceptionV3-Apples-Bananas-Grapes-Mangoes-and-Strawberries)
+git clone [https://github.com/Nishanth619/fruit-classification-xception.git](https://github.com/Nishanth619/Fruit-Classification-using-XceptionV3-Apples-Bananas-Grapes-Mangoes-and-Strawberries)
 cd fruit-classification-xception
 \`\`\`
 
