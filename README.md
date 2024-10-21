@@ -57,22 +57,20 @@ The XceptionV3 model is used as the base model, pre-trained on the ImageNet data
 ## Installation
 ### 1. Clone the repository:
 git clone [https://github.com/Nishanth619/fruit-classification-xception.git](https://github.com/Nishanth619/Fruit-Classification-using-XceptionV3-Apples-Bananas-Grapes-Mangoes-and-Strawberries)
+
 cd fruit-classification-xception
 
 
 ### 2. Install required dependencies:
-\`\`\`
+
 pip install -r requirements.txt
-\`\`\`
 
 ### 3. Prepare the dataset:
 - Ensure that your dataset is organized into train and validation directories, as described above.
 
 ## Usage
 1. **Training the model**: To start training the model, simply run:
-   \`\`\`bash
    python train.py
-   \`\`\`
    This will train the model on the dataset and save the trained model as \`fruit_classifier_xception.h5\`.
 
 2. **Fine-tuning**: You can unfreeze layers of the Xception model to fine-tune for better accuracy. Modify the \`train.py\` script to enable fine-tuning.
