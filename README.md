@@ -24,7 +24,7 @@ The dataset used contains images of the following fruits:
 5. Strawberries
 
 The dataset is structured into subdirectories, where each folder contains images of a single fruit class. The data is split into **training** and **validation** sets.
-
+Dataset Used:https://www.kaggle.com/datasets/utkarshsaxenadn/fruits-classification
 ### Example Directory Structure:
 \`\`\`
 dataset/
