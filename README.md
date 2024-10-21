@@ -27,7 +27,10 @@ The dataset is structured into subdirectories, where each folder contains images
 Dataset Used:https://www.kaggle.com/datasets/utkarshsaxenadn/fruits-classification
 ### Example Directory Structure:
 \`\`\`
+
+
 dataset/
+
     ├── train/
         ├── Apples/
         ├── Bananas/
