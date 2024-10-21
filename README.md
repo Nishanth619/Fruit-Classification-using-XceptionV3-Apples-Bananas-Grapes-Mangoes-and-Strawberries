@@ -38,9 +38,6 @@ dataset/
         ├── Mangoes/
         └── Strawberries/
 
-
-
-        
     └── validation/
         ├── Apples/
         ├── Bananas/
